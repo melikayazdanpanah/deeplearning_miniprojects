@@ -1,0 +1,1 @@
+[{"name": "Dense", "units": 5000, "activation": "relu"}, {"name": "Dense", "units": 1000, "activation": "relu"}, {"name": "Dense", "units": 500, "activation": "relu"}, {"name": "Dense", "units": 1, "activation": "sigmoid"}]
